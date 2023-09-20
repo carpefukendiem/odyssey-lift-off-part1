@@ -72,8 +72,8 @@ const HomeButton = styled.div({
 const LogoContainer = styled.div({ display: 'flex', alignSelf: 'center' });
 
 const Logo = styled.img({
-  height: 60,
-  width: 60,
+  height: 80,
+  width: 80,
   marginRight: 8,
 });
 
